@@ -1,3 +1,6 @@
 Rose
 Lily
 Poppy
+Marigold
+lotus
+tulip
